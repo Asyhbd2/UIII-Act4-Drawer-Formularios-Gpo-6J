@@ -4,8 +4,8 @@
 ## Drawer Header terminado:
 ![alt text](image-1.png)
 
-## Profile placeholder:
+## Clientes Formulario:
 ![alt text](image-2.png)
 
-## News placeholder:
+## Cliente detalles:
 ![alt text](image-3.png)

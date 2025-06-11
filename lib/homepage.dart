@@ -64,13 +64,12 @@ class HomePage extends StatelessWidget {
               child: ListTile(
                 onTap: (){Navigator.popAndPushNamed(context, "/profile");},
                 leading: Icon(Icons.person, color: Colors.black),
-                title: Text("My Profile"),
+                title: Text("Clientes"),
               ),
             ),
             InkWell(
               onTap: null,
               child: ListTile(
-                onTap: (){Navigator.pushNamed(context, "/news");},
                 leading: Icon(Icons.shopping_basket, color: Colors.red),
                 title: Text("News"),
               ),
